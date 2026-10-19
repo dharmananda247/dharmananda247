@@ -3,7 +3,7 @@
 I'm a passionate web developer on a journey to build cool things for the web. I love turning ideas into interactive realities using code.
 
 ### 🧑‍💻 A little about me:
-*   🔭 I’m currently working on my **[Project-1 Calculator](https://github.com/dharmananda247/Project-1)**
+*   🔭 I’m currently working on my **[Project@code.with_dj](https://github.com/dharmananda247/Secure-PassGen)**
 *   🌱 I’m currently learning **JavaScript & Frontend Development**
 *   👯 I’m looking to collaborate on **beginner-friendly open source projects**
 *   💬 Ask me about **HTML, CSS, or anything tech!**
