@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello World, I'm Dharmananda!
 
-<!--
-**dharmananda247/dharmananda247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer on a journey to build cool things for the web. I love turning ideas into interactive realities using code.
 
-Here are some ideas to get you started:
+### 🧑‍💻 A little about me:
+*   🔭 I’m currently working on my **[Project-1 Calculator](https://github.com/dharmananda247/Project-1)**
+*   🌱 I’m currently learning **JavaScript & Frontend Development**
+*   👯 I’m looking to collaborate on **beginner-friendly open source projects**
+*   💬 Ask me about **HTML, CSS, or anything tech!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+</p>
+
+### 📫 Let's Connect!
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharmananda247)
+
+⭐️ *Thanks for stopping by! Feel free to check out my repositories.*
